@@ -1,0 +1,1 @@
+Değiştirilmesi istenilen indisleri verirken değerleri 0'dan itibaren veriniz.
